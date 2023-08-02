@@ -25,7 +25,7 @@ list of bots, among other features.
 *Test your server by visiting this route in the browser `http://localhost:3000/bots`
 
 *run command `npm start`
-The app will be viewed in netlify `https://64ca55bdb6d9721fca958119--musical-gelato-c042d6.netlify.app/`
+The app will be viewed in netlify https://64ca55bdb6d9721fca958119--musical-gelato-c042d6.netlify.app/
 # Technology used
 1.React
 2.Tailwind
